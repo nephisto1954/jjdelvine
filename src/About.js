@@ -19,7 +19,7 @@ class About extends Component {
           </p>
 
           <p>
-            <strong>JJ Delvine</strong> (aka Jeremy James Wood b.1967) is an artist who lives and works in South East London. <br />
+            <strong>JJ Delvine</strong> (b.1967) is an artist who lives and works in South East London. <br />
             His art practice encompasses painting, curating, sound art, writing and fabrication and his portraits <br />
             have been selected 3 times for the BP Portrait Award.
           </p>

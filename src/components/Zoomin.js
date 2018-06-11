@@ -9,7 +9,7 @@ export default class Zoom extends Component {
         return (
             <div className="fluid">
                 <div className="fluid__image-container">
-                    <p>Scroll over the image to see in more detail</p>
+                    <p>Scroll over the image to see in more detail (only on desktop)</p>
                     <ReactImageMagnify {...{
                         smallImage: {
                             width: 638,
