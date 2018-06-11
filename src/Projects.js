@@ -16,12 +16,7 @@ const details = [
   { src: require("./details/MijiDetail300-80.jpg"), width: 1, height: 1,},
   { src: require("./details/WrightVesuviusDetail300-80.jpg"), width: 1, height: 1,},
   { src: require("./details/GrandTour2Detail300-80.jpg"), width: 1, height: 1,},
-  { src: require("./details/VolcanoLoverDetail300-80.jpg"), width: 1, height: 1,},
-  { src: require("./details/RenaissancescapeDetail300-80.jpg"), width: 1, height: 1,},
   { src: require("./details/FirebrandDetail300-80.jpg"), width: 1, height: 1,},
-  { src: require("./details/BubbleDetail300-80.jpg"), width: 1, height: 1,},
-  { src: require("./details/DisappearanceDetail300-80.jpg"), width: 1, height: 1,},
-
 ];
 
 const photos = [
@@ -36,11 +31,6 @@ const photos = [
   { src: require("./pictures/JJDelvine_ReflectionsOfMiji.jpg")},
   { src: require("./pictures/JJDelvine_WrightAtVesuvius.jpg")},
   { src: require("./pictures/JJDelvine_GrandTour.jpg")},
-  { src: require("./pictures/JJDelvine_VolcanoLover.jpg")},
-  { src: require("./pictures/JJDelvine_Renaissance-scape.jpg")},
-  { src: require("./pictures/JJDelvine_Firebrand.jpg")},
-  { src: require("./pictures/JJDelvine_Bubble.jpg")},
-  { src: require("./pictures/JJDelvine_Disappearance.jpg")},
   { src: require("./pictures/JJDelvine_Quincunx.jpg")},
 ];
 

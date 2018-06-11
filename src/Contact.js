@@ -13,6 +13,7 @@ class Contact extends Component {
           <a className="blog" href="https://www.npg.org.uk/whatson/bp-portrait-award-2018/exhibition/" target="_blank">NATIONAL PORTRAIT GALLERY</a>
         <br/>
           <a className="blog" href="http://jjdelvine.blogspot.com" target="_blank">BLOG</a>
+          <a className="blog" href="http://www.oolographer.com" target="_blank">OOLOGRAPHER.COM</a>
         <div>
 
         </div>
