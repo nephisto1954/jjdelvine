@@ -1,0 +1,35 @@
+figcaption {
+  font-size: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+#lightboxBackdrop {
+  background-color: #9D9D9D;
+}
+
+.react-photo-gallery--gallery{
+  width: 100vw;
+  margin: 0 auto;
+  padding-left: 2%
+
+}
+
+.react-photo-gallery--gallery img {
+  padding: 4%;
+  margin: 10%;
+  width: 24%;
+  height: 24%;
+}
+
+.arrow_b9bbag-o_O-arrow__direction__left_shhpn5-o_O-arrow__size__medium_9f7hgo{
+  color: black;
+}
+
+.arrow_b9bbag-o_O-arrow__direction__right_174p6a9-o_O-arrow__size__medium_9f7hgo{
+  color: black;
+}
+
+button {
+  color: black;
+}
