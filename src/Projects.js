@@ -20,18 +20,18 @@ const details = [
 ];
 
 const photos = [
-  { src: require("./pictures/JJDelvine_TheOolographerR.jpg")},
-  { src: require("./pictures/JJDelvine_GirlWithABlackEye.jpg")},
-  { src: require("./pictures/JJDelvine_Sisters.jpg")},
-  { src: require("./pictures/JJDelvine_DetailAfterReynolds.jpg")},
-  { src: require("./pictures/JJDelvine_DaddyPig.jpg")},
-  { src: require("./pictures/JJDelvine_IsleOfDogs.jpg")},
-  { src: require("./pictures/JJDelvine_OldBiscuitMan.jpg")},
-  { src: require("./pictures/JJDelvine_Beach.jpg")},
-  { src: require("./pictures/JJDelvine_ReflectionsOfMiji.jpg")},
-  { src: require("./pictures/JJDelvine_WrightAtVesuvius.jpg")},
-  { src: require("./pictures/JJDelvine_GrandTour.jpg")},
-  { src: require("./pictures/JJDelvine_Quincunx.jpg")},
+  { src: require("./pictures/JJDelvine_TheOolographerR.jpg"), alt:"JJDelvine TheOolographer"},
+  { src: require("./pictures/JJDelvine_GirlWithABlackEye.jpg"), alt:"JJDelvine GirlWithABlackEye"},
+  { src: require("./pictures/JJDelvine_Sisters.jpg"), alt:"JJDelvine Sisters"},
+  { src: require("./pictures/JJDelvine_DetailAfterReynolds.jpg"), alt:"JJDelvine DetailAfterReynolds"},
+  { src: require("./pictures/JJDelvine_DaddyPig.jpg"), alt:"JJDelvine DaddyPig"},
+  { src: require("./pictures/JJDelvine_IsleOfDogs.jpg"), alt:"JJDelvine IsleOfDogs"},
+  { src: require("./pictures/JJDelvine_OldBiscuitMan.jpg"), alt:"JJDelvine OldBiscuitMan"},
+  { src: require("./pictures/JJDelvine_Beach.jpg"), alt: "JJDelvine Beach"},
+  { src: require("./pictures/JJDelvine_ReflectionsOfMiji.jpg"), alt:"JJDelvine ReflectionsOfMiji"},
+  { src: require("./pictures/JJDelvine_WrightAtVesuvius.jpg"), alt:"JJDelvine WrightAtVesuvius"},
+  { src: require("./pictures/JJDelvine_GrandTour.jpg"), alt:"JJDelvine GrandTour"},
+  { src: require("./pictures/JJDelvine_Quincunx.jpg"), alt:"JJDelvine Quincunx"},
 ];
 
 

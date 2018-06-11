@@ -24,10 +24,10 @@ class About extends Component {
             have been selected 3 times for the BP Portrait Award.
           </p>
           <p>
-            The <a href="http://www.oolographer.com/#" target="_blank">Oolographer</a> is a new project combining Eggs, Painting, Art History and the History of Collections.
+            The <a href="http://www.oolographer.com/#" target="_blank" alt="Oolographer.com">Oolographer</a> is a new project combining Eggs, Painting, Art History and the History of Collections.
           </p>
           <p>
-            Please <a href="http://www.jjdelvine.com/#/contact">contact</a> the artist if you are interested in finding out more.
+            Please <a href="http://www.jjdelvine.com/#/contact" alt="www.jjdelvine.com/#/contact">contact</a> the artist if you are interested in finding out more.
           </p>
         </div>
       </div>

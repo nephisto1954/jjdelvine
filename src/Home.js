@@ -6,7 +6,7 @@ class Home extends Component {
   render() {
     return (
       <div className="home-Oolographer">
-        <img src={require("./pictures/JJDelvine_EaselA4-300.jpg")} alt="studio" id="banner-image" />
+        <img src={require("./pictures/JJDelvine_EaselA4-300.jpg")} alt="JJ Delvine studio" id="banner-image" />
       </div>
     );
   }
