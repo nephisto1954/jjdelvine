@@ -53,6 +53,9 @@ class Main extends Component {
             <Route path="/about" component={About}/>
             <Route path="/contact" component={Contact}/>
           </section>
+          <footer>
+            Created by Tanguy Chennaux
+          </footer>
         </div>
       </HashRouter>
     );
