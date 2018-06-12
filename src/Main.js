@@ -54,7 +54,7 @@ class Main extends Component {
             <Route path="/contact" component={Contact}/>
           </section>
           <footer>
-            Created by Tanguy Chennaux
+            Site created by Tanguy Chennaux
           </footer>
         </div>
       </HashRouter>
